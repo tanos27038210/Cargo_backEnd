@@ -58,6 +58,10 @@ CRM-система для логистической компании: учёт 
 
 Документация API (Swagger): http://localhost:8081/swagger-ui/index.html
 
+Frontend URL: https://cargo-frontend-delta.vercel.app
+
+Swagger URL: https://cargo-backendy.onrender.com/swagger-ui/index.html
+
 ## Тестовые учётные данные
 
 | Роль | Email | Пароль |
