@@ -121,4 +121,4 @@ Every status change is recorded in the history (who, when, from, to).
 
 ## Author
 
-<Artyom Kim>, <https://github.com/tanos27038210>
+[Artyom Kim] <https://github.com/tanos27038210>
