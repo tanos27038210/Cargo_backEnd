@@ -37,12 +37,11 @@ Cargo CRM is a web application for a logistics company. It manages customers, or
    ```
 3. Set the environment variables:
 
-   | Variable | Description|
-         |----------|------------|
-   | `DB_USERNAME` | user PostgreSQL |
-   | `DB_PASSWORD` | password PostgreSQL |
-   | `JWT_SECRET` | Secret key for token signing (at least 32 characters) |
-
+| Variable | Description |
+|----------|-------------|
+| `DB_USERNAME` | PostgreSQL user |
+| `DB_PASSWORD` | PostgreSQL password |
+| `JWT_SECRET` | Secret key for token signing (at least 32 characters) |
 4. Start application:
    ```
    ./mvnw spring-boot:run
